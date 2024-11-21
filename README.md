@@ -24,7 +24,7 @@ Welcome to Minesweeper, a classic puzzle game recreated for the web! Test your l
 ## Setup
 ### Clone the repository:
 ```
-git clone https://github.com/your-username/minesweeper.git
+git clone https://github.com/FireBolt393/minesweeper.git
 ```
 **Navigate to the project directory:**
 ```

@@ -30,7 +30,7 @@ git clone https://github.com/your-username/minesweeper.git
 ```
 cd minesweeper
 ```
-Open the index.html file in your browser to play.
+Open the minesweeper.html file in your browser to play.
 
 ## Contributing
 Feel free to fork the repository, make your improvements, and submit a pull request.

@@ -2,12 +2,12 @@
 Welcome to Minesweeper, a classic puzzle game recreated for the web! Test your logic and strategy to uncover all tiles without triggering hidden mines.
 
 ## Features
-🎮 Difficulty Levels: Choose between Easy, Medium, and Hard to match your skill level.
-⏱️ Timer: Track your time and aim for your personal best.
-💣 Mines Reveal: All mines are revealed upon losing.
-🔄 Persistent Settings: The game remembers your difficulty selection after restarting.
-🖼️ Intuitive UI: Responsive design with visual feedback for mines and uncovered tiles.
-🔲 Modal Popups: Get notified of wins, losses, or resets with stylish modals.
+- 🎮 Difficulty Levels: Choose between Easy, Medium, and Hard to match your skill level.
+- ⏱️ Timer: Track your time and aim for your personal best.
+- 💣 Mines Reveal: All mines are revealed upon losing.
+- 🔄 Persistent Settings: The game remembers your difficulty selection after restarting.
+- 🖼️ Intuitive UI: Responsive design with visual feedback for mines and uncovered tiles.
+- 🔲 Modal Popups: Get notified of wins, losses, or resets with stylish modals.
 
 ## How to Play
 - Select a difficulty level to start the game.

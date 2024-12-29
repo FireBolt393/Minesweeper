@@ -1,6 +1,9 @@
 # Minesweeper Game
 Welcome to Minesweeper, a classic puzzle game recreated for the web! Test your logic and strategy to uncover all tiles without triggering hidden mines.
 
+## Check out the game here: https://firebolt393.github.io/Minesweeper/
+- Make sure to play it on a desktop for planting flags.
+
 ## Features
 - 🎮 Difficulty Levels: Choose between Easy, Medium, and Hard to match your skill level.
 - ⏱️ Timer: Track your time and aim for your personal best.
